@@ -9,12 +9,8 @@ import org.junit.runner.RunWith;
 import org.junit.runners.Parameterized;
 import twitter.model.Tweet;
 import twitter.model.User;
-import twitter.pageobject.menu.HeaderRightActionsItem;
-import twitter.pageobject.menu.NewTweetButtonMenuItem;
-import twitter.pageobject.menu.ProfileAndSettingsItem;
 import twitter.pageobject.page.AccountPage;
 import twitter.pageobject.page.LoginPage;
-import twitter.pageobject.form.NewTweetForm;
 import twitter.step.CustomSteps;
 
 import java.util.Arrays;
