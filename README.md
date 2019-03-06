@@ -13,6 +13,8 @@ SCENARIO:
 1. Navigate to https://twitter.com/
 2. Log in with a test user
 3. Create new tweet with random text
-4. Make sure that the tweet from expected user and text was created
-5. Delete tweet
-6. Log out 
+4. Make sure that the tweet from expected user was created
+5. Make sure that the tweet with expected text was created
+6. Delete tweet
+7. Log out 
+8. Make sure that the user was logged out
